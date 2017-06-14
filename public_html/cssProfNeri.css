@@ -1,0 +1,11 @@
+*{
+    margin:0px;
+    padding:5px;
+}
+
+#BiografiaNeri{
+    background-color: gray;
+    width: 1200px;
+    margin: auto;
+    border: solid cadetblue 10px;
+}
